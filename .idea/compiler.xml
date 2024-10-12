@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sachin-hub" />
+        <module name="sachin-tests" />
+        <module name="sachin-objects" />
+        <module name="sachin-modules" />
       </profile>
     </annotationProcessing>
   </component>

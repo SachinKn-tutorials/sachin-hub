@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../sachin-objects/pom.xml" />
+        <option value="$PROJECT_DIR$/../sachin-modules/pom.xml" />
+        <option value="$PROJECT_DIR$/../sachin-tests/pom.xml" />
       </list>
     </option>
   </component>
